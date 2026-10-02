@@ -1,0 +1,3 @@
+phone  - Rs.20000
+laptop - Rs.50000
+watch - Rs.1500

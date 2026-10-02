@@ -1,0 +1,15 @@
+Title: Adventure Film
+Platform: Instagram
+Views: 10000
+Status: viral
+------------------------
+Title: Gym Vlog
+Platform: Youtube
+Views: 15000
+Status: viral
+------------------------
+Title: Food Vlog
+Platform: Youtube
+Views: 10000
+Status: viral
+------------------------
